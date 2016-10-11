@@ -7,7 +7,7 @@
 //
 
 /*************************************************************************************************************************************************************
- This program runs simple animations on cartoon images as well as has the option of making a gif from the images
+ This program runs simple animations on cartoon images as well as has the option of making a gif from the images. 
  *************************************************************************************************************************************************************/
 
 import UIKit
